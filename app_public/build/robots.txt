@@ -1,0 +1,9 @@
+
+User-agent: *
+Allow: /#about
+Allow: /#skills
+Allow: /#portfolio
+Allow: /#resume
+Allow: /#contact
+
+Sitemap: http://parthshah.com/sitemap.xml
